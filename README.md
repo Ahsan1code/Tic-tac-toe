@@ -1,2 +1,2 @@
 # Tic-tac-toe
-Tic tac toe in python
+Tic tac toe in python without using user defined functions
